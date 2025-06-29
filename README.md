@@ -12,3 +12,5 @@
 *Duration*:4 weeks
 
 *Descryption*:Languages used are Java,Kotlin and developed using Android studio
+
+*Output*:![Image](https://github.com/user-attachments/assets/61b6edfc-7b12-4a14-9de8-51674b483cff)
